@@ -1,0 +1,3 @@
+[submodule "edge-connect"]
+	path = edge-connect
+	url = https://github.com/ophilar/edge-connect.git
